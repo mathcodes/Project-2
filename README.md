@@ -29,7 +29,7 @@ App is live on https://team-5-project-2.herokuapp.com/
 
 
 ## Usage: 
-Although constantly evolving, Red Planet Voyagers is ahead of the Mars travel trend by allowing users to access Mars weather information and photo of the day before their selected travel.
+Although constantly evolving, Red Planet Voyagers is ahead of the Mars travel trend by allowing users to access Mars weather information from the previous 5 days and photo of the day before their selected travel.
 
 
 ## License: 
